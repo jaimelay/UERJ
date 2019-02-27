@@ -1,0 +1,11 @@
+baixar git no site www.git-scm.com
+ssh-keygen -t rsa -b 4096 -C "email"
+eval $(ssh-agent -s)
+ssh-add ./ssh/id_rsa
+clip < .ssh/id_rsa.pub
+ir no github -> settings -> ssh and gpg keys -> new ssh key
+git clone "url"
+git add
+git status
+git commit -m "comentario" <nome do arquivo>
+git push -u origin master (envia arquivos para o github)
