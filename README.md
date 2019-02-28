@@ -3,4 +3,4 @@
 
 * [Linguagem de Programação I](https://github.com/jaimelay/UERJ/tree/master/LP1)
 * [Linguagem de Programação II](https://github.com/jaimelay/UERJ/tree/master/LP2)
-* [Algoritmos e Estruturas de Dados]()
+* [Algoritmos e Estruturas de Dados](https://github.com/jaimelay/UERJ/tree/master/AED/)
