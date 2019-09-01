@@ -1,5 +1,5 @@
 # Linguagem de Programação 1
-Trabalhos realizados na disciplina [Linguagem de Programação 1](http://www.ementario.uerj.br/ementas/10821.pdf) do 2° período do curso de Ciência da Computação na UERJ.
+Trabalhos realizados na disciplina [Linguagem de Programação 1](http://www.ementario.uerj.br/ementa.php?cdg_disciplina=10821) do 2° período do curso de Ciência da Computação na UERJ.
 
 #### Aprendizado em Linguagem C
 

@@ -1,0 +1,2 @@
+# Algoritmos e Estruturas de Dados I e II
+Exercicios feitos com base do que foi aprendido na disciplina [Algoritmos e Estruturas de Dados I](http://www.ementario.uerj.br/ementa.php?cdg_disciplina=10820) do 2° período e [Algoritmos e Estruturas de Dados II](http://www.ementario.uerj.br/ementa.php?cdg_disciplina=10823) do 3º período do curso de Ciência da Computação na UERJ.
