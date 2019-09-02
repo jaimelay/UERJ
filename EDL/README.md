@@ -1,0 +1,2 @@
+# Estruturas de Linguagens
+Trabalhos realizados na disciplina [Estruturas de Linguagem](http://www.ementario.uerj.br/ementa.php?cdg_disciplina=10834) do 5° período do curso de Ciência da Computação na UERJ e seguindo o repositório da disciplina, [github.com/fsantanna-uerj/EDL](https://github.com/fsantanna-uerj/EDL).
