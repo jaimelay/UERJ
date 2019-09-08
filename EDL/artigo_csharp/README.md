@@ -36,12 +36,14 @@ No caso do C#, toda vez que você cria um novo objeto, o CLR aloca memória para
 
 # C# vs C++
 ![csharplogo](./imgs/logo.png "csharp logo")
+##
 ![csharpcodigolucas](./imgs/csharp_cdg_lucas.png "csharpcodigolucas")
 
 ## Output
 ![csharpoutputlucas](./imgs/csharp_output_lucas.png "csharpoutputlucas")
 
 ![cpluspluslogo](./imgs/cpluspluslogo.png "cplusplus logo")
+##
 ![cpluspluscodigolucas](./imgs/cplusplus_cdg_lucas.png "cpluspluscodigolucas")
 
 ## Output
