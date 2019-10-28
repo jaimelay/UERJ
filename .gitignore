@@ -3,4 +3,5 @@
 *.txt
 *.o
 *.hi
+*.class
 .vscode
