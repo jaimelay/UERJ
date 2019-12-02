@@ -4,8 +4,13 @@ struct Exp {
     enum tipo {
         Num, Add, Sub
     }type;
-    int valor;
-    struct Exp *exp1, *exp2;
+
+    union {
+        int valor;
+        struct {
+            struct Exp *exp1, *exp2;
+        };
+    };
 };
 
 int avalia(struct Exp e){
